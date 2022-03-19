@@ -2,7 +2,8 @@
 ## WILL YOU HATE
 is a lazy rewrite of DeltaHATE, an [**UndertaleModTool**](https://github.com/krzys-h/UndertaleModTool) corruption plugin designed for Will You Snail.
 
-### ***DOWNLOAD** >> https://raw.githubusercontent.com/chwair/WILLYOUHATE/main/WILLYOUHATE.csx (PRESS CTRL+S AFTER OPENING THE URL)* <<
+### ***DOWNLOAD** >> https://raw.githubusercontent.com/chwair/WILLYOUHATE/main/WILLYOUHATE.csx <<*
+(PRESS CTRL+S AFTER OPENING THE URL)
 
 ### It currently messes with:
 - [x] SFX
