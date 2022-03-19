@@ -79,7 +79,7 @@ for (int i = 0; i < Data.Sprites.Count; i++)
         if (sprite.Name.Content.StartsWith("font_"))
             continue;
         if (sprite.Name.Content.StartsWith("spr_wall"))
-            continue; // These 2 lines stop the thingy from not fucking up the walls (again)
+            continue; // These 2 lines just did your mom
     }
     if (sprite.Width < 50 && sprite.Height < 50)
         tiny.Add(i);
