@@ -30,3 +30,5 @@ is a lazy rewrite of DeltaHATE, an [**UndertaleModTool**](https://github.com/krz
 -------------------------------------------------
 #### 5. Run the script and follow the on-screen instructions
 ![Running the script](https://cdn.discordapp.com/attachments/887310545726881842/954808139285405727/unknown.png)
+
+## IMPORTANT: When booting the game, make sure to use "Temp run game" in the UMT menu
