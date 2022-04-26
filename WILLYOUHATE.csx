@@ -11,6 +11,10 @@ if (spriteCorrLevel == 3)
 {
     ScriptMessage("You selected Corruption Level 3. This corruption level is near impossible to complete without exploration mode. May Squid Bless You.");
 }
+else if (spriteCorrLevel == 1)
+{
+    // friend wanted to make this drop a scriptmessage saying "pussy" but nah
+}
 static void Shuffle<T>(this IList<T> list)
 {
     int n = list.Count;
@@ -70,6 +74,7 @@ for (int i = 0; i < Data.Sprites.Count; i++)
         if (sprite.Name.Content.StartsWith("font_") ||
            sprite.Name.Content.StartsWith("spr_wall") ||
            sprite.Name.Content.StartsWith("spr_player"))
+           sprite.Name.Content.StartsWith("spr_snail"))
             continue; // These 2 lines stop the thingy from not fucking up the player
     }
     else if (spriteCorrLevel == 2)
